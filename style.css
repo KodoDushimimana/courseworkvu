@@ -41,14 +41,14 @@ nav ul li a:hover {
 }
 
 
-.hero {
+.explore {
   background: url('images/hero.jpg') center/cover no-repeat; /* Full-width background image */
   padding: 80px 20px; /* Vertical and horizontal spacing */
   color: white; /* White text */
   text-align: center; /* Centered text */
 }
 
-.hero .btn {
+.explore .btn {
   margin-top: 20px; /* Space above button */
   padding: 10px 20px; /* Inner spacing */
   background: #ff6b6b; /* Coral red background */
@@ -57,13 +57,13 @@ nav ul li a:hover {
   border-radius: 5px; /* Rounded corners */
 }
 
-.hero h2{
+.explore h2{
   color: black;
   text-transform: uppercase;
   text-decoration-thickness: 2em;
   text-shadow: 2px 2px 4px #00408d;
 }
-.hero a{
+.explore a{
   margin: 20px;
 }
 
